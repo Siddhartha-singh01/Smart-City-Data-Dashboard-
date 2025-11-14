@@ -61,45 +61,4 @@ Vercel / Netlify (frontend)
 
 Render / Railway / Firebase Functions (backend)
 
-📂 Project Structure
-Smart-City-Data-Dashboard/
-│── frontend/
-│     ├── src/
-│     ├── components/
-│     ├── pages/
-│     └── public/
-│
-│── backend/
-│     ├── routes/
-│     ├── controllers/
-│     ├── server.js
-│     └── package.json
-│
-│── README.md
-│── .env.example
 
-🚀 Getting Started
-Clone the repository
-git clone https://github.com/YOUR_USERNAME/Smart-City-Data-Dashboard.git
-cd Smart-City-Data-Dashboard
-
-⚙️ Backend Setup
-cd backend
-npm install
-
-
-Create a .env file:
-
-API_KEY=your_api_key_here
-FIREBASE_PROJECT_ID=xxx
-FIREBASE_CLIENT_EMAIL=xxx
-FIREBASE_PRIVATE_KEY=xxx
-
-
-Start the server:
-
-npm start
-
-🎨 Frontend Setup
-cd frontend
-npm install
